@@ -1,6 +1,7 @@
 div {
     background-color: rgba(137, 43, 226, 0.425);
     padding: 10px;
+    margin-bottom: 10px;
 }
 h2 {
     font-weight: bolder;
